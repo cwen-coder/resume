@@ -20,11 +20,11 @@
 * Web开发：PHP / golang 
 * MVC框架：CodeIgniter
 * Cache：memcache  
-* 前端：HTML / CSS / JS / jQuery库 / 闭包风格  
-* 前端框架：Bootstrap / amazeUI 
+* 前端：HTML / CSS / JS / 闭包风格  
+* 前端框架：jQuery / Bootstrap / amazeUI 
 * 数据库相关：MySQL / PostgreSQL / MongoDB 
 * 版本管理：Git     
-* 其他 : Ajax / cURL / OOP / apache / scoket / 正则表达式
+* 其他 : Ajax / json / cURL / OOP / apache / scoket / 正则表达式
 * 以Linux作为日常操作系统 
 * 业余管理一台个人VPS(在Conoha 购买的)和一台校园服务器OP
 * 坚持每日学习新技术 
@@ -54,7 +54,7 @@
 > **R** 已依靠此系统成功举办一届沈阳工业大学ACM程序设计大赛并为ACM队员提供日常练习。    
 
 
-* 2014.10 沈阳工业大学教工足球足球队网站    
+* 2014.10 [沈阳工业大学教工足球足球队网站](http://football.sutapp.com)    
 > **S** 教工足球队俱乐部无官方网站，日常管理为线下，发布消息还需要依靠其他校内媒体。   
 > **T** 与教工足球队管理人员的交流讨论分析，结合教工足球队日常安排设计网站。    
 > **A** 采用LAMP架构，将所有日常管理、赛事预告、新闻发布等全部转为线上。此项目与另一人协同开发。  
@@ -79,6 +79,13 @@
 * 2014.11 [院“科技创新标兵”称号](https://github.com/cwen-coder/resume/blob/master/kejichuangxin.jpg)   
 * [2014](https://github.com/cwen-coder/resume/blob/master/14_sanhao.jpg)、[2015](https://github.com/cwen-coder/resume/blob/master/15_sanhao.jpg) 两年“三好学生”称号
 
+---     
+
+# 自我评价  
+* 对程序开发充满热爱，总是沉醉于Coding的过程中不能自拔  
+* 对新事物有较强的好奇心，敢于尝试新技术     
+* 学习能力较强     
+* 工作态度认真,负责,具有团队合作精神    
 
 ---
 
