@@ -34,7 +34,7 @@
 
 # 主要项目  
 * 2015.11 - 2016.1 [吱喳早点](http://www.zizhazaodian.com)
-> **S** 项目由 [Golang中国](http://golangtc.com) 社区站长发起，在项目中主要实现菜单管理、校园CEO与楼楼管理的重构、form表单替换Ajax等工作。   
+> **S** 项目由 [Golang中国](http://golangtc.com) 社区站长发起，在项目中主要实现菜单管理、校园CEO与楼长管理的重构、form表单替换Ajax等工作。   
 > **T** 学习revel框架、PostgreSQL、xorm 等技术。   
 > **A** 实现每日菜单管理，楼长管理重构，表单替换Ajax。   
 > **R** 成功实现菜单管理改变以往直接在数据库中修改数据的状况，重构部分改变以往代码维护难的问题，使用Ajax技术使操作更加人性化。  
