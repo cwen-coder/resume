@@ -12,22 +12,23 @@
  
 * Github : <https://github.com/cwen-coder>  
     
-* 期望职位：PHP研发工程师
+* 期望职位：golang研发工程师
  
 ---     
 
 # 技能清单   
-* Web开发：PHP / golang 
-* MVC框架：CodeIgniter
+* Web开发：golang / php
+* MVC框架：beego / martini / revel
 * Cache：memcache  
 * 前端：HTML / CSS / JS / jQuery库 / 闭包风格  
 * 前端框架：Bootstrap / amazeUI 
 * 数据库相关：MySQL / PostgreSQL / MongoDB 
 * 版本管理：Git     
-* 其他 : Ajax / cURL / OOP / apache/ 正则表达式
+* 其他 : Ajax / cURL / OOP / apache / socket / 正则表达式
 * 以Linux作为日常操作系统 
-* 业余管理一台个人VPS(在Conoha 购买的)和一台校园服务器OP
-* 坚持每日练习提高  
+* 业余管理一台个人VPS(在Conoha 购买)和一台校园服务器OP
+* 坚持每日学习新技术 
+* 坚持每日练习提高
 
 ---     
 
