@@ -1,5 +1,5 @@
 # 联系方式  
-* 手机 : 18804077889(沈阳)   
+* 手机 : 1880407789(沈阳)   
 * Email : <yincwengo@gmail.com>     
 * QQ : 172569856    
 
@@ -12,21 +12,21 @@
  
 * Github : <https://github.com/cwen-coder>  
     
-* 应聘岗位：PHP研发工程师 
+* 期望职位：基础平台研发工程师    
  
 ---     
 
 # 技能清单   
-* Web开发：PHP / golang 
-* MVC框架：CodeIgniter
+* Web开发：golang / php
+* MVC框架：beego / martini / revel
 * Cache：memcache  
 * 前端：HTML / CSS / JS / 闭包风格  
 * 前端框架：jQuery / Bootstrap / amazeUI 
 * 数据库相关：MySQL / PostgreSQL / MongoDB 
 * 版本管理：Git     
-* 其他 : Ajax / json / cURL / OOP / apache / scoket / 正则表达式
+* 其他 : Ajax / json / cURL / OOP / apache / socket / 正则表达式
 * 以Linux作为日常操作系统 
-* 业余管理一台个人VPS(在Conoha 购买的)和一台校园服务器OP
+* 业余管理一台个人VPS(在Conoha 购买)和一台校园服务器OP
 * 坚持每日学习新技术 
 * 坚持每日练习提高
 
@@ -85,7 +85,7 @@
 * 对程序开发充满热爱，总是沉醉于Coding的过程中不能自拔  
 * 对新事物有较强的好奇心，敢于尝试新技术     
 * 学习能力较强     
-* 工作态度认真,负责,具有团队合作精神    
+* 工作态度认真,负责,具有团队合作精神   
 
 ---
 
